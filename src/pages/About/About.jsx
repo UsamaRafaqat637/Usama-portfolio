@@ -26,20 +26,20 @@ export default function About() {
 
             <div className="relative space-y-4">
               <p className="text-white">
-                Hello! I'm Usama Rafaqat, a passionate Front-End Developer specializing in building responsive, user-friendly web interfaces and engaging digital experiences. I enjoy turning complex problems into clean, interactive, and visually appealing solutions using modern JavaScript technologies.
+                Hello! I'm Usama Rafaqat, a passionate Front-End Developer specializing in building responsive, user-friendly web interfaces and engaging digital experiences. I enjoy turning complex problems into clean, interactive, and visually appealing solutions using modern JavaScript technologies like React.js.
                 <span className="font-bold text-white">
                   {/* As the creator of the OlovaJS UI Framework */}
                 </span>
                 , I'm dedicated to simplifying development workflows.
               </p>
               <p className="text-white">
-                My focus is on building fast, scalable, and accessible web applications by combining efficient frontend experiences with reliable backend architecture. As a full-stack developer, I continuously work on improving performance, usability, and system design to deliver seamless, end-to-end solutions.
+                My focus is on creating fast, accessible, and performance-optimized web applications with pixel-perfect implementations. I'm dedicated to writing clean, maintainable code and staying current with the latest front-end tools and best practices to deliver exceptional user experiences that work seamlessly across all devices.
               </p>
 
               <div className="pt-6">
                 <blockquote className="pl-4 border-l-4 border-gray-300">
                   <p className="text-white">
-                   I'm a lifelong learner and innovator, driven by a passion for contributing to the developer community through meaningful ideas and practical tools. As a full-stack developer and the creator of OlovaJS, I work across both frontend and backend to push the boundaries of modern JavaScript ecosystems and empower developers to build powerful, scalable applications worldwide.
+                  I'm a lifelong learner and innovator, driven by a passion for contributing to the developer community through meaningful ideas and practical tools. As a front-end specialist, I continuously explore new ways to push the boundaries of modern JavaScript ecosystems and help build powerful, scalable applications worldwide.
                   </p>
 
                   <div className="mt-6 space-y-3">
